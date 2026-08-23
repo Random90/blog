@@ -1,4 +1,5 @@
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 title: Grzegorz Czernatowicz | GeckoCode Blog
 author: Grzegorz Czernatowicz
 description: Writing about programming and tech
