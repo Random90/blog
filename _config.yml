@@ -1,5 +1,19 @@
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minima
 title: Grzegorz Czernatowicz | GeckoCode Blog
-author: Grzegorz Czernatowicz
-description: Writing about programming and tech
+author:
+   name: Grzegorz Czernatowicz
+   email: gczernatowicz@geckocode.pl
+
+description: Writing about programming and tech and other interesting things and problems I encounter while working on my projects like Gecko Budget Android app.
+
+
+minima:
+  skin: auto
+  show_excerpts: true
+  social_links:
+       - title: My GitHub profile
+         icon: github
+         url: "https://github.com/Random90"
+  hide_site_feed_link: false
+
+

@@ -1,3 +1,4 @@
+---
 title: "Proving your Android app respects user privacy without source code"
 date: 2026-08-23
 ---
