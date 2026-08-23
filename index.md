@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Grzegorz Czernatowicz | GeckoCode Blog
 ---
+## Example entry
+Example text. More example text. 
