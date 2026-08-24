@@ -3,8 +3,9 @@ title: Grzegorz Czernatowicz | Gecko Code - Technical Radical Blog
 author:
    name: Grzegorz Czernatowicz
    email: gczernatowicz@geckocode.pl
+   github: https://github.com/Random90
 
-description: [Github](https://github.com/Random90) Writing about programming and tech and other interesting things and problems I encounter while working on my projects like Gecko Budget Android app.
+description: Writing about programming and tech and other interesting things and problems I encounter while working on my projects like Gecko Budget Android app.
 
 minima:
   skin: auto
