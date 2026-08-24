@@ -1,5 +1,5 @@
 ---
-title: "Build offline-first apps to build trust in AI SaaS slop era."
+title: "Build offline-first apps to earn trust in AI SaaS slop era."
 date: 2026-08-23
 ---
 
