@@ -1,13 +1,13 @@
 ---
 title: "Build offline-first apps to earn trust in AI SaaS slop era."
-date: 2026-08-23
+date: 2026-10-16
 ---
 
 ### Living in the slop era
 
 I have SaaS fatigue. 
 
-Every piece of your data is on a server somewhere. If it's not sold to advertisers or for AI training, it's just a matter of time before it falls victim to a data breach with the same result. For that reason, when I'm developing my own software, like the Gecko Budget Android app, I started designing it with an offline-first principle in mind. 
+Every piece of your data is on a server somewhere. If it's not sold to advertisers or for AI training, it's just a matter of time before it falls victim to a data breach with the same result. For that reason, when I'm developing my own software, like the [Gecko Budget](https://play.google.com/store/apps/details?id=pl.geckobudget&hl=en) Android app, I started designing it with an offline-first principle in mind. 
 
 At first, it was just a hobby/portfolio project, but at some point I got convinced to publish it on Google Play. During a closed testing phase with family and friends, a few people raised a concern about enabling notifications listener permission: "I don't want **you** to read my notifications".
 
