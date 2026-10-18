@@ -21,7 +21,7 @@ Yes, you can do reproducible builds, but an average user is never going to verif
 Also, publishing source code of the app you worked on for months or years might not be the best idea in the age of AI and slop.
 What's stopping bots and agents from forking your work and spinning up their own version? Nothing. You can say licencing, but you are not going to sue, because you have a life and no lawyers. 
 
-While cloning popular open source projects won't really harm the original project, your small project might not be able to compete with clones to addition to vibe slop that is already out there.
+While cloning popular open source projects won't really harm the original project, your small project might not be able to compete with clones in addition to ones that are already out there.
 
 We have to use something different to prove that our app won't send any user data to your server, some cloud or advertising platform. A method that is simple and quick to verify by anyone, even non-technical users.
 
